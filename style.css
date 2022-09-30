@@ -1,0 +1,32 @@
+
+h1
+{
+    color: chartreuse;
+    font-size: 50px;
+}
+
+.body_style
+{
+
+background-position: center;
+background-size: cover;
+background-image: url("bg1.jpg");
+
+}
+
+#canvas
+{
+
+border-color: goldenrod;
+border-style: ridge;
+border-width: 15px;
+background-color: white;
+
+}
+
+h2
+{
+    position:absolute;
+    text-align: center;
+    color: grey;
+}
